@@ -63,3 +63,7 @@ Others:
   - Reading & writing 
 - Chinese classical musics apperciation & practice
 - Chinese poetry apperciation/诗词鉴赏: [Chinese-poetry](https://github.com/guoxiaowhu/chinese-poetry) is a repository about Chinese poetry
+
+## Short-term School
+- 
+- 2021.2.20-28, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC_NAOC), online
