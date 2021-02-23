@@ -8,6 +8,7 @@ Mathematics:
 - Probability thoery and mathematical statistics
 - Method of mathematical physics （姚端正）
 - [Computational physics](https://github.com/guoxiaowhu/computationalphysics_N2013301020099) （蔡浩）
+
 Physics:
 - Classical mechanics
   - Vector mechanics
