@@ -33,7 +33,7 @@ Physics (experiment):
 Others:
 - General chemistry
 - General chemistrical experiment
-- College Einglish
+- College English
 
 ## Graduate Courses (UCAS)
 - Advanced astronomy / modern astronomy（姜碧沩）: the related video is [here](https://www.bilibili.com/video/BV1e4411m7pQ?from=search&seid=7837905343518866754)
@@ -48,7 +48,7 @@ Others:
 - Gravtation and cosomology （陆由俊、闫昌硕、曹亮）
 
 Others:
-- Master Einglish
-- Doctor Einglish
+- Master English
+- Doctor English
   - Listening & saying
   - Reading & writing 
