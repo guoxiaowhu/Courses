@@ -30,10 +30,18 @@ Physics (experiment):
 - Modern phyics
 - Comprehensive experiment 
 
-Others:
+Chemistry
 - General chemistry
 - General chemistrical experiment
+
+Others:
 - College English
+- (Western) Classical musics apperciation
+- Sports tourism
+- Orienteering  
+- Volleyball
+- Football/soccer 
+- Qigong/气功： 八段锦
 
 ## Graduate Courses (UCAS)
 - Advanced astronomy / modern astronomy（姜碧沩）: the related video is [here](https://www.bilibili.com/video/BV1e4411m7pQ?from=search&seid=7837905343518866754)
@@ -52,3 +60,5 @@ Others:
 - Doctor English
   - Listening & saying
   - Reading & writing 
+- Chinese classical musics apperciation & practice
+- Chinese poetry apperciation/诗词鉴赏: [Chinese-poetry](https://github.com/guoxiaowhu/chinese-poetry) is a repository about Chinese poetry
