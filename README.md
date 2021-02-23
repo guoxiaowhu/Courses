@@ -47,14 +47,14 @@ Others:
 ## Graduate Courses (UCAS)
 - Advanced astronomy / modern astronomy（姜碧沩）: the related video is [here](https://www.bilibili.com/video/BV1e4411m7pQ?from=search&seid=7837905343518866754)
 - Radation process in astrophysics
-- Introdution to solar physics (张枚、杨尚斌、王华宁)
+- Introdution to solar physics ([张枚](http://sourcedb.naoc.cas.cn/cn/naoexpert/200907/t20090706_2000352.html)、杨尚斌、王华宁)
 - Stellar evolution
 - Astronomical librature reading & writing
 - Galactic astronmy （马骏）
 - Galactic dynamics （陈大明） 
 - High energy astrophysics （袁为民、苟利军等）
 - [Astrostatics](https://github.com/guoxiaowhu/Astrostatistics)
-- Gravtation and cosomology （陆由俊、闫昌硕、曹亮）
+- Gravtation and cosomology （[陆由俊](http://sourcedb.naoc.cas.cn/cn/naoexpert/200907/t20090706_2000324.html)、闫昌硕、曹亮）
 
 Others:
 - Master English
