@@ -1,14 +1,13 @@
 # Courses
 ## Undergraduate Courses (WHU)
 Mathematics:
-- Advanced mathematics
-  - Calculus
-  - Vector analysis 
+- Advanced mathematics includes calculus, vector analysis
+- Ordinary differential equation
 - Linear algebra
 - Probability thoery and mathematical statistics
 - Method of mathematical physics （姚端正）
 - Group theory （刘觉平）
-- Modern mathematics: an introdution to differiential geometry & linear group representation theory 
+- Modern mathematics: an introdution to differential geometry & linear group representation theory 
 - [Computational physics](https://github.com/guoxiaowhu/computationalphysics_N2013301020099) [（蔡浩）](https://github.com/caihao)
 
 Physics (theory):
