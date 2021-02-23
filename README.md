@@ -36,7 +36,7 @@ Others:
 - College Einglish
 
 ## Graduate Courses (UCAS)
-- Advanced astronomy / modern astronomy（姜碧沩）the related video is on [bilibili](https://www.bilibili.com/video/BV1e4411m7pQ?from=search&seid=7837905343518866754)
+- Advanced astronomy / modern astronomy（姜碧沩）: the related video is [here](https://www.bilibili.com/video/BV1e4411m7pQ?from=search&seid=7837905343518866754)
 - Radation process in astrophysics
 - Introdution to solar physics (张枚、杨尚斌、王华宁)
 - Stellar evolution
