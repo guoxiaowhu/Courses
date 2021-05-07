@@ -49,7 +49,7 @@ Others:
 - Radation process in astrophysics
 - Introdution to solar physics ([张枚](http://sourcedb.naoc.cas.cn/cn/naoexpert/200907/t20090706_2000352.html)、杨尚斌、王华宁)
 - Stellar evolution
-- Astronomical librature reading & writing
+- Astronomical literature reading & writing
 - Galactic astronomy （马骏）
 - Galactic dynamics （陈大明） 
 - High energy astrophysics （袁为民、苟利军等）
