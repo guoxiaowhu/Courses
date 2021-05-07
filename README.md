@@ -53,7 +53,7 @@ Others:
 - Galactic astronmy （马骏）
 - Galactic dynamics （陈大明） 
 - High energy astrophysics （袁为民、苟利军等）
-- [Astrostatics](https://github.com/guoxiaowhu/Astrostatistics)
+- [Astrostatics](https://github.com/guoxiaowhu/Astrostatistics)(刘超)
 - Gravtation and cosomology （[陆由俊](http://sourcedb.naoc.cas.cn/cn/naoexpert/200907/t20090706_2000324.html)、闫昌硕、曹亮）
 
 Others:
