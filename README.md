@@ -1,7 +1,7 @@
 # Courses
 ## Undergraduate Courses (WHU)
 Mathematics:
-- Advanced mathematics includes calculus, vector analysis
+- Advanced mathematics includes calculus, vector analysis and so on
 - Ordinary differential equation
 - Linear algebra
 - Probability thoery and mathematical statistics
@@ -19,7 +19,7 @@ Physics (theory):
 - Electromagnetics
 - Atomic phyics （乔豪学）
 - Thermodynamics and statistical physics（周详）
-- Electrodynamics （）
+- Electrodynamics （杨柏峰）
 - Quantum Mechanics (刘觉平)
 - Solid state phyics (王为忠)
 - General relativity (贾俊基)
@@ -48,7 +48,7 @@ Others:
 - Advanced astronomy / modern astronomy（姜碧沩）: the related video is [here](https://www.bilibili.com/video/BV1e4411m7pQ?from=search&seid=7837905343518866754)
 - Radation process in astrophysics
 - Introdution to solar physics ([张枚](http://sourcedb.naoc.cas.cn/cn/naoexpert/200907/t20090706_2000352.html)、杨尚斌、王华宁)
-- Stellar evolution
+- Stellar evolution and internal structure (邓李才)
 - Astronomical literature reading & writing
 - Galactic astronomy （马骏）
 - Galactic dynamics （陈大明） 
