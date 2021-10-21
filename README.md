@@ -1,5 +1,5 @@
 # Skill & Courses
-## Computer Language
+## Computer Languages
 - python
 - Mathematica
 - Maple
