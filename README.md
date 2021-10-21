@@ -1,4 +1,13 @@
-# Courses
+# Skill & Courses
+## Computer Language
+- python
+- Mathematica
+- Maple
+- MatLab
+- C
+- R
+- julia
+
 ## Undergraduate Courses (WHU)
 Mathematics:
 - Advanced mathematics includes calculus, vector analysis and so on
