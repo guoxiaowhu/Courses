@@ -1,4 +1,4 @@
-# Skill & Courses
+# Skills & Courses
 ## Computer Languages
 - python
 - Mathematica
