@@ -78,5 +78,5 @@ More courses resources see following links:
 提取码：yjgc 
 
 ## Short-term School
-- 
 - 2021.2.20-28, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC_NAOC), online
+- 2022.2, [Mohanty gravitational wave data analysis workshop](https://github.com/guoxiaowhu/GWSC22_NAOC), online
