@@ -38,7 +38,7 @@ Physics (experiment):
 - Optics
 - Electromagnetics
 - Modern phyics
-- Comprehensive experiment 
+- Comprehensive experiment: cosmic ray experiment 
 
 Chemistry
 - General chemistry
